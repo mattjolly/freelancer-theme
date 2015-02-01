@@ -4,7 +4,7 @@ email: your-email@domain.com
 description: "The gypsy swing folk quintet who bring the forest back into the city. Lovingly created to serenade and enchant you and tangle your feet!"
 twitter_username: jekyllrb
 github_username:  jekyll
-baseurl: "/puck"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
